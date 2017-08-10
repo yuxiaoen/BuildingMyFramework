@@ -1,0 +1,6 @@
+framework module Yc_Sdk_FB {
+  umbrella header "Yc_Sdk_FB.h"
+
+  export *
+  module * { export * }
+}
